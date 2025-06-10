@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **fellow Developers and Data Enthusiasts to enhance my learning experience.**
 
-- 💬 Ask me about **data analysis, machine learning or any interesting data-related topics, I'm happy to help!s**
+- 💬 Ask me about **data analysis or any interesting data-related topics, I'm happy to help!s**
 
 - 📫 How to reach me **prajwalshendge22@gmail.com**
 
