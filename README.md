@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prajwal Shendge</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Buisness Analyst</h3>
 
-- 🔭 I’m currently working on **building my Portfolio Website to showcase my projects and skills in Data Analysis and Data Science!**
+- **📊 Passionate about turning data into actionable insights through SQL, Excel, Power BI, and Python.**
 
-- 🌱 I’m currently learning **Unreal Engine and Game Development**
+- 👯**🔍 Business Analyst | Data-Driven Decision Maker | Bridging Business & Technology**
 
-- 👯 I’m looking to collaborate on **fellow Developers and Data Enthusiasts to enhance my learning experience.**
+- **💼 Building solutions that align business goals with data intelligence.**
 
 - 💬 Ask me about **data analysis or any interesting data-related topics, I'm happy to help!s**
 
