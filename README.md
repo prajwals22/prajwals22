@@ -13,8 +13,7 @@
 - 🚀 Impact-driven analytics & visualization  
 - 💬 Ask me about: SQL, Power BI, Excel, Python  
 - 📫 Reach me: [prajwalshendge22@gmail.com](mailto:prajwalshendge22@gmail.com)  
-
-<!-- <br clear="both"> -->
+<br>
 
 ---
 
