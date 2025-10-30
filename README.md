@@ -1,4 +1,4 @@
-<!-- <div align="center" style="margin-top:-10px;">
+<div align="center" style="margin-top:-10px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=19&duration=2200&pause=1400&color=F97316&center=true&vCenter=true&width=680&lines=👋+Hi,+I'm+Prajwal+Shendge;💼+Business+Analyst+|+Data+Enthusiast;📊+Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
@@ -13,7 +13,6 @@
 - 🚀 Impact-driven analytics & visualization  
 - 💬 Ask me about: SQL, Power BI, Excel, Python  
 - 📫 Reach me: [prajwalshendge22@gmail.com](mailto:prajwalshendge22@gmail.com)  
-<br>
 
 ---
 
