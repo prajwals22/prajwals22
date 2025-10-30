@@ -19,36 +19,47 @@
 ---
 
 ## 🧰 Tech Stack
-<div align="center" style="margin-top:-10px;">
+<div align="center" style="margin-top:-8px;">
 <table>
 <tr>
-<td align="center" width="80">
-  <img src="https://img.icons8.com/color/512/microsoft-excel-2019.png" width="30"><br><b>Excel</b>
+
+
+<td align="center" width="85">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"><br><b>HTML</b>
 </td>
-<td align="center" width="80">
-  <img src="https://img.icons8.com/color/512/power-bi.png" width="30"><br><b>Power BI</b>
+
+<td align="center" width="85">
+  <img src="https://img.icons8.com/color/512/microsoft-excel-2019.png" width="32"><br><b>Excel</b>
 </td>
-<td align="center" width="80">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"><br><b>MySQL</b>
+
+<td align="center" width="85">
+  <img src="https://img.icons8.com/color/512/power-bi.png" width="32"><br><b>Power BI</b>
 </td>
-<td align="center" width="80">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"><br><b>Python</b>
+
+<td align="center" width="85">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"><br><b>MySQL</b>
 </td>
-<td align="center" width="80">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"><br><b>Pandas</b>
+
+<td align="center" width="85">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"><br><b>Python</b>
 </td>
-<td align="center" width="80">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"><br><b>NumPy</b>
+
+<td align="center" width="85">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"><br><b>Pandas</b>
 </td>
-<td align="center" width="80">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="30"><br><b>Seaborn</b>
+
+<td align="center" width="85">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"><br><b>NumPy</b>
 </td>
-<td align="center" width="80">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"><br><b>HTML</b>
+
+<td align="center" width="85">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50"><br><b>Seaborn</b>
 </td>
-<td align="center" width="80">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"><br><b>PHP</b>
+
+<td align="center" width="85">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32"><br><b>PHP</b>
 </td>
+
 </tr>
 </table>
 </div>
