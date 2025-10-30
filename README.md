@@ -1,4 +1,4 @@
-<div align="center" style="margin-top:-10px;">
+<!-- <div align="center" style="margin-top:-10px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=19&duration=2200&pause=1400&color=F97316&center=true&vCenter=true&width=680&lines=👋+Hi,+I'm+Prajwal+Shendge;💼+Business+Analyst+|+Data+Enthusiast;📊+Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
@@ -83,4 +83,4 @@
 <div align="center" style="margin-top:-8px;">
   <img src="https://komarev.com/ghpvc/?username=prajwalshendge&label=Profile%20Views&color=6366F1&style=flat" alt="Profile Views" />
   <h4 style="font-size:14px; margin-top:4px;">💡 “Data is the new oil — I refine it into insight.”</h4>
-</div>
+</div> -->
