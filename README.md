@@ -80,6 +80,5 @@
 ---
 
 <div align="center" style="margin-top:-8px;">
-  <img src="https://komarev.com/ghpvc/?username=prajwalshendge&label=Profile%20Views&color=6366F1&style=flat" alt="Profile Views" />
   <h4 style="font-size:14px; margin-top:4px;">💡 “Data is the new oil — I refine it into insight.”</h4>
 </div> -->
